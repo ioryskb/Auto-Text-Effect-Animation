@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Hand:wght@400..700&family=Playwrite+CA+Guides&display=swap');
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: salmon;
+    font-family: "Edu QLD Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
